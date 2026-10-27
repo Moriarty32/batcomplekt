@@ -1,0 +1,15 @@
+{
+  "name": "batcomplekt-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Страница Баткомплект по референсу",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check app.js",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "sharp": "^0.35.5"
+  }
+}

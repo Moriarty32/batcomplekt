@@ -1,0 +1,10 @@
+node_modules/
+research/
+qa/
+test-results/
+playwright-report/
+.preview.pid
+assets/originals/
+assets/cutouts/
+*.log
+.DS_Store
